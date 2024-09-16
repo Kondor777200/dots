@@ -22,7 +22,7 @@ export NIX_CONFIG="experimental-features = nix-command flakes"
 install desktop
 
 ```bash
-nix profile install github:Aylur/dotfiles
+nix profile install github:Kondor777200/dotfiles
 ```
 
 login into Hyprland and run
